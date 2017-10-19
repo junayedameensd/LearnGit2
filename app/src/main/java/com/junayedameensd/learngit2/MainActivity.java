@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setTitle("Initial");
         setTitle("master commit 2");
 
+        setTitle("branch commit 1");
+
     }
 }
