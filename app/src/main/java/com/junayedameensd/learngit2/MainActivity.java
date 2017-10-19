@@ -11,9 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         setTitle("Initial");
-        setTitle("master commit 2");
+        setTitle("master commit ");
 
         setTitle("branch commit 1");
+        setTitle("branch01 commit 2");
+
 
     }
 }
